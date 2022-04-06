@@ -1,4 +1,12 @@
 body {
     background-color: black;
     color: azure;
+
+}
+div {
+    background-color: darkblue;
+    border: 5px;
+    border-color: greenyellow;
+    margin: 10px;
+    padding: 10px;
 }
